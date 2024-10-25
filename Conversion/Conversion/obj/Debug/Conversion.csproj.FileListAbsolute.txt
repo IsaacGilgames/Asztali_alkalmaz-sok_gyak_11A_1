@@ -1,0 +1,7 @@
+Z:\Asztali alkalmazások gyak 11A_1\Conversion\Conversion\bin\Debug\Conversion.exe.config
+Z:\Asztali alkalmazások gyak 11A_1\Conversion\Conversion\bin\Debug\Conversion.exe
+Z:\Asztali alkalmazások gyak 11A_1\Conversion\Conversion\bin\Debug\Conversion.pdb
+Z:\Asztali alkalmazások gyak 11A_1\Conversion\Conversion\obj\Debug\Conversion.csproj.AssemblyReference.cache
+Z:\Asztali alkalmazások gyak 11A_1\Conversion\Conversion\obj\Debug\Conversion.csproj.CoreCompileInputs.cache
+Z:\Asztali alkalmazások gyak 11A_1\Conversion\Conversion\obj\Debug\Conversion.exe
+Z:\Asztali alkalmazások gyak 11A_1\Conversion\Conversion\obj\Debug\Conversion.pdb

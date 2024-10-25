@@ -1,0 +1,7 @@
+Z:\Asztali alkalmazások gyak 11A_1\StringAndGyak\StringAndGyak\bin\Debug\StringAndGyak.exe.config
+Z:\Asztali alkalmazások gyak 11A_1\StringAndGyak\StringAndGyak\bin\Debug\StringAndGyak.exe
+Z:\Asztali alkalmazások gyak 11A_1\StringAndGyak\StringAndGyak\bin\Debug\StringAndGyak.pdb
+Z:\Asztali alkalmazások gyak 11A_1\StringAndGyak\StringAndGyak\obj\Debug\StringAndGyak.csproj.AssemblyReference.cache
+Z:\Asztali alkalmazások gyak 11A_1\StringAndGyak\StringAndGyak\obj\Debug\StringAndGyak.csproj.CoreCompileInputs.cache
+Z:\Asztali alkalmazások gyak 11A_1\StringAndGyak\StringAndGyak\obj\Debug\StringAndGyak.exe
+Z:\Asztali alkalmazások gyak 11A_1\StringAndGyak\StringAndGyak\obj\Debug\StringAndGyak.pdb

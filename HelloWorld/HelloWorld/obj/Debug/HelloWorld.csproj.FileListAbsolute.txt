@@ -1,0 +1,7 @@
+Z:\Asztali alkalmazások gyak 11A_1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+Z:\Asztali alkalmazások gyak 11A_1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+Z:\Asztali alkalmazások gyak 11A_1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+Z:\Asztali alkalmazások gyak 11A_1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+Z:\Asztali alkalmazások gyak 11A_1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+Z:\Asztali alkalmazások gyak 11A_1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+Z:\Asztali alkalmazások gyak 11A_1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

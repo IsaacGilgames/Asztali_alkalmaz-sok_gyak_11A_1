@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolAndSelection", "BoolAndSelection\BoolAndSelection.csproj", "{8F31A8FC-86C5-4CAD-888B-4D7B749ED95C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F31A8FC-86C5-4CAD-888B-4D7B749ED95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F31A8FC-86C5-4CAD-888B-4D7B749ED95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F31A8FC-86C5-4CAD-888B-4D7B749ED95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F31A8FC-86C5-4CAD-888B-4D7B749ED95C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12B2A0C-D1E7-42E1-AD7C-538575CD8DAB}
+	EndGlobalSection
+EndGlobal
